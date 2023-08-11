@@ -1,148 +1,148 @@
 {
-    "conversions": [
+    "letters": [
         {
-            "char": "0",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/0.png"
+            "human": "0",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/0.png"
         },
         {
-            "char": "1",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/1.png"
+            "human": "1",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/1.png"
         },
         {
-            "char": "2",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/2.png"
+            "human": "2",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/2.png"
         },
         {
-            "char": "3",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/3.png"
+            "human": "3",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/3.png"
         },
         {
-            "char": "4",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/4.png"
+            "human": "4",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/4.png"
         },
         {
-            "char": "5",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/5.png"
+            "human": "5",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/5.png"
         },
         {
-            "char": "6",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/6.png"
+            "human": "6",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/6.png"
         },
         {
-            "char": "7",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/7.png"
+            "human": "7",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/7.png"
         },
         {
-            "char": "8",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/8.png"
+            "human": "8",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/8.png"
         },
         {
-            "char": "9",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/9.png"
+            "human": "9",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/9.png"
         },
         {
-            "char": "a",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/A.png"
+            "human": "a",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/A.png"
         },
         {
-            "char": "b",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/B.png"
+            "human": "b",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/B.png"
         },
         {
-            "char": "c",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/C.png"
+            "human": "c",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/C.png"
         },
         {
-            "char": "d",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/D.png"
+            "human": "d",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/D.png"
         },
         {
-            "char": "e",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/E.png"
+            "human": "e",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/E.png"
         },
         {
-            "char": "f",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/F.png"
+            "human": "f",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/F.png"
         },
         {
-            "char": "g",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/G.png"
+            "human": "g",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/G.png"
         },
         {
-            "char": "h",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/H.png"
+            "human": "h",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/H.png"
         },
         {
-            "char": "i",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/I.png"
+            "human": "i",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/I.png"
         },
         {
-            "char": "j",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/J.png"
+            "human": "j",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/J.png"
         },
         {
-            "char": "k",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/K.png"
+            "human": "k",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/K.png"
         },
         {
-            "char": "l",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/L.png"
+            "human": "l",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/L.png"
         },
         {
-            "char": "m",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/M.png"
+            "human": "m",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/M.png"
         },
         {
-            "char": "n",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/N.png"
+            "human": "n",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/N.png"
         },
         {
-            "char": "o",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/O.png"
+            "human": "o",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/O.png"
         },
         {
-            "char": "p",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/P.png"
+            "human": "p",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/P.png"
         },
         {
-            "char": "q",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Q.png"
+            "human": "q",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Q.png"
         },
         {
-            "char": "r",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/R.png"
+            "human": "r",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/R.png"
         },
         {
-            "char": "s",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/S.png"
+            "human": "s",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/S.png"
         },
         {
-            "char": "t",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/T.png"
+            "human": "t",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/T.png"
         },
         {
-            "char": "u",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/U.png"
+            "human": "u",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/U.png"
         },
         {
-            "char": "v",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/V.png"
+            "human": "v",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/V.png"
         },
         {
-            "char": "w",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/W.png"
+            "human": "w",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/W.png"
         },
         {
-            "char": "x",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/X.png"
+            "human": "x",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/X.png"
         },
         {
-            "char": "y",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Y.png"
+            "human": "y",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Y.png"
         },
         {
-            "char": "z",
-            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Z.png"
+            "human": "z",
+            "alien": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/Z.png"
         }
     ]
 }
