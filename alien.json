@@ -2,7 +2,147 @@
     "conversions": [
         {
             "char": "0",
-            "img": "0.png"
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/0.png"
+        },
+        {
+            "char": "1",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/1.png"
+        },
+        {
+            "char": "2",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/2.png"
+        },
+        {
+            "char": "3",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/3.png"
+        },
+        {
+            "char": "4",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/4.png"
+        },
+        {
+            "char": "5",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/5.png"
+        },
+        {
+            "char": "6",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/6.png"
+        },
+        {
+            "char": "7",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/7.png"
+        },
+        {
+            "char": "8",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/8.png"
+        },
+        {
+            "char": "9",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/9.png"
+        },
+        {
+            "char": "a",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/a.png"
+        },
+        {
+            "char": "b",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/b.png"
+        },
+        {
+            "char": "c",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/c.png"
+        },
+        {
+            "char": "d",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/d.png"
+        },
+        {
+            "char": "e",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/e.png"
+        },
+        {
+            "char": "f",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/f.png"
+        },
+        {
+            "char": "g",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/g.png"
+        },
+        {
+            "char": "h",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/h.png"
+        },
+        {
+            "char": "i",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/i.png"
+        },
+        {
+            "char": "j",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/j.png"
+        },
+        {
+            "char": "k",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/k.png"
+        },
+        {
+            "char": "l",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/l.png"
+        },
+        {
+            "char": "m",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/m.png"
+        },
+        {
+            "char": "n",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/n.png"
+        },
+        {
+            "char": "o",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/o.png"
+        },
+        {
+            "char": "p",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/p.png"
+        },
+        {
+            "char": "q",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/q.png"
+        },
+        {
+            "char": "r",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/r.png"
+        },
+        {
+            "char": "s",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/s.png"
+        },
+        {
+            "char": "t",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/t.png"
+        },
+        {
+            "char": "u",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/u.png"
+        },
+        {
+            "char": "v",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/v.png"
+        },
+        {
+            "char": "w",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/w.png"
+        },
+        {
+            "char": "x",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/x.png"
+        },
+        {
+            "char": "y",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/y.png"
+        },
+        {
+            "char": "z",
+            "encoded": "https://raw.githubusercontent.com/slimmii/alien-alphabet/master/z.png"
         }
     ]
 }
